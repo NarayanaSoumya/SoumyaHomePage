@@ -1,0 +1,95 @@
+.TopContainer {
+    height: 600px;
+    background-image: url("my-background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin:0px;
+    text-align: center;
+    color: bisque;
+}
+
+.circular1 {
+    border-radius: 100%;
+    border: 3px solid;
+    border-color: bisque;
+    padding: 0;
+    margin: 35px 1px 25px;
+
+}
+.verticalSpace {
+    padding: 10px;
+}
+
+.LocalBackground {
+    padding: 35px 10px 20px 20px;
+}
+.LablePosition {
+    text-align: center;
+}
+
+.LeftPositioning {
+    text-align: right;
+    padding: 10px;
+}
+
+.BottomContainer{
+    background-color: bisque;
+    height: 90px;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+.horizontalLineStyle {
+    width: 20%;
+    border: 5px dotted gray;
+    border-bottom: 0;
+    border-left: 0;
+    border-right: 0;
+    margin: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;     
+}
+
+
+/* Navigation bar*/
+.navbar {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.nav-item {
+    padding: 10px;
+}
+
+/*Research page*/
+.renderShape{
+    border-radius: 90%;
+    width: 35%;
+    float: left;
+}
+.PosLeft{
+    float: left;
+    margin-right: 30px;
+}
+
+.PosRight{
+    float: right;
+    margin-left: 30px;
+}
+
+.midContainer {
+  width: 80%;
+  margin: 100px auto 100px auto;
+  text-align: justify;
+  line-height: 2;  
+}
+.MiddleContainer {
+    background-color: brown;
+}
+
+.LablePositionVert {
+    padding-top: 80px;
+}
+
+td {
+    padding: 1px 10px 1px 10px;
+}
